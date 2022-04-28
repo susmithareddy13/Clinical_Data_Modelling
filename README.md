@@ -4,11 +4,11 @@ The project is to investigate and analyze the attached data (DScasestudy.txt.gz)
 # Install
 This project requires Python 3 and the following Python libraries installed:
 
-NumPy
-Pandas
-matplotlib
-scikit-learn
-SMOTE
+# NumPy
+# Pandas
+# matplotlib
+# scikit-learn
+# SMOTE
 All the above packages are can be installed with given Requirements.txt.
 
 Used Google style docstrings.
