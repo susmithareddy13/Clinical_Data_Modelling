@@ -9,14 +9,15 @@ This project requires Python 3 and the following Python libraries installed:
 # matplotlib
 # scikit-learn
 # SMOTE
-All the above packages are can be installed with given Requirements.txt.
+All the above packages are can be installed with given Requirements
 
-Used Google style docstrings.
 
 # Code
 Complete code implemented for this project is present in a single file models.py.
 
 # Project
-Developed two models: Model 1: Used SMOTE to make the dataset balanced and implemented a Random Forest Classifier model. Model 2: Using the same unbalanced dataset developed the Logistic regression model with Lasso regularization.
+Developed two models:
+Model 1: Used SMOTE to make the dataset balanced and implemented a Random Forest Classifier model. 
+Model 2: Using the same unbalanced dataset developed the Logistic regression model with Lasso regularization.
 
-The detailed project approach is explained in the DScasestudy Take-Home Documentation.
+The detailed project approach is explained in the clinical data Documentation.
